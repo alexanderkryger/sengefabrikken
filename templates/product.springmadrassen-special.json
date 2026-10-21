@@ -110,7 +110,7 @@
             "icon": "picto-trustpilot",
             "icon_width": 24,
             "mobile_icon_width": 24,
-            "title": "4,6 på Trustpilot",
+            "title": "[trustscore] på Trustpilot",
             "content": ""
           }
         },
@@ -432,7 +432,7 @@
         "show_categories": false,
         "subheading": "",
         "title": "Ofte stillede spørgsmål",
-        "content": "<p>Har du brug for hjælp til valget af ny seng, topmadras eller noget helt tredje? Vores kompetente team af sengevejledere, søvnspecialister og syvsovere sidder klar til at hjælpe digalle ugens dage fra 08.00 - 23.00. Vi er online, når du har tid.</p>"
+        "content": "<p>Har du brug for hjælp til valget af ny seng, topmadras eller noget helt tredje? Vores kompetente team af sengevejledere, søvnspecialister og syvsovere sidder klar til at hjælpe dig alle ugens dage fra 09.00 - 18.00. Vi er online, når du har tid.</p>"
       }
     },
     "521a67c7-8c08-4f21-a20f-76217086071b": {
